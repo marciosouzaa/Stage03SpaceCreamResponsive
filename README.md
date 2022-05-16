@@ -1,12 +1,12 @@
-# Stage03SpaceCreamResponsive
+# Stage03 SpaceCream Responsive
  
- Exercicio feito pela @Rocketseat
+ Exercise done by @Rocketseat
  
 https://marciosouzaa.github.io/Stage03SpaceCreamResponsive/
 
-## Stack  e conceitos utilizados
+## Stack and concepts used
 
-Html e Css
+Html and Css
 
 ## Screenshots
 
